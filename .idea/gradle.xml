@@ -7,7 +7,10 @@
         <option name="delegatedBuild" value="false" />
         <option name="testRunner" value="PLATFORM" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
         <option name="gradleJvm" value="openjdk-21" />
+=======
+>>>>>>> afc89344cd9974fc23fa0aab2bbff3601b36b135
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
